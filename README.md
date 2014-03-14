@@ -1,4 +1,4 @@
 yiiforme
 ========
 
-my project 01
+my project
